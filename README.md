@@ -69,7 +69,7 @@ Changes system identity:
 - Basic tools: `bash`, `apt`, `git`
 
 **Author:**  
-[@zadrott272](https://github.com/zadrott272) — 16 y.o. Linux fan, distro creator, bash lover, music addicted 🎧
+[@zadrott272](https://github.com/zadrott272) —  Linux fan, distro creator, bash lover, 
 
 ---
 
