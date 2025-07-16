@@ -82,3 +82,7 @@ bash zero.sh      # install core system
 bash gui.sh       # install GUI (optional)
 bash env.sh       # customize shell
 bash meta.sh      # set system branding
+
+## License
+
+This project is licensed under the MIT License.
